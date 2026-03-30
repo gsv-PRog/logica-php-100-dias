@@ -1,3 +1,4 @@
+
 <?php
 echo "Número: ";
 $num = intval(fgets(STDIN));
