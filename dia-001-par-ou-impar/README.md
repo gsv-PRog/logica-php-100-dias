@@ -6,6 +6,6 @@
 
 Lógica:
 - dividir o problema em 2 
-- if
+- if/else if
 - operador % (módulo)
-- se N < 0 (negativo) se não positivo   
+- se N >= 0 (positivo) se não negativo   
