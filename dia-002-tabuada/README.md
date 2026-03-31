@@ -2,7 +2,7 @@
 
 ## Descrição:
 - Um programa que recebe um número até 10
-- E permitir que escolher até onde vai a tabuada (ex: 20)
+- E permiti escolher um número até onde vai a tabuada (ex: 20)
 
 ### Lógica 
 - Usar um loop (for)
