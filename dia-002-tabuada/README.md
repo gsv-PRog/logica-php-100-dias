@@ -1,7 +1,7 @@
 # Dia 002 tabuada
 
 ## Descrição:
-- Um programa que recebe um número até 10
+- Um programa que recebe um número
 - E permiti escolher um número até onde vai a tabuada (ex: 20)
 
 ### Lógica 
